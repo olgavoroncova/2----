@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#4 ДЗ\bin\Debug\net6.0\C#4 ДЗ.exe
+C:\Users\User\Desktop\C#4 ДЗ\bin\Debug\net6.0\C#4 ДЗ.deps.json
+C:\Users\User\Desktop\C#4 ДЗ\bin\Debug\net6.0\C#4 ДЗ.runtimeconfig.json
+C:\Users\User\Desktop\C#4 ДЗ\bin\Debug\net6.0\C#4 ДЗ.dll
+C:\Users\User\Desktop\C#4 ДЗ\bin\Debug\net6.0\C#4 ДЗ.pdb
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.AssemblyInfo.cs
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.dll
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\refint\C#4 ДЗ.dll
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.pdb
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\C#4 ДЗ.genruntimeconfig.cache
+C:\Users\User\Desktop\C#4 ДЗ\obj\Debug\net6.0\ref\C#4 ДЗ.dll
